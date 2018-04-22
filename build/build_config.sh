@@ -1,0 +1,5 @@
+#!/bin/bash
+
+NAME="roxid3"
+NAME_HUMAN="ROXID3"
+PRODUCT_TAR_NAME="ROXID3.tar"

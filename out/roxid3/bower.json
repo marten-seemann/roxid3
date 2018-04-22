@@ -1,0 +1,21 @@
+{
+  "name": "roxid",
+  "description": "ROXID",
+  "main": "",
+  "authors": [
+    "Marten Seemann"
+  ],
+  "license": "",
+  "moduleType": [],
+  "homepage": "www.oxid-responsive.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,24 @@
+@bower_path: "../../../roxid/bower_components/bootstrap/less";
+@roxid_path: "../../../roxid/src/css";
+@fonts_bootswatch: "";
+
+@import "@{bower_path}/variables.less";
+@import "@{bower_path}/mixins.less";
+
+@import "@{roxid_path}/colorthemes/theme_@{theme}/variables.less";
+@import "@{roxid_path}/bootstrap/mods_vars.less";
+@import "@{roxid_path}/roxid_variables.less";
+@import "@{roxid_path}/mixins.less";
+@import "@{roxid_path}/roxid.less";
+@import "@{roxid_path}/colorthemes/theme_@{theme}/mods_vars.less";
+@import "@{roxid_path}/colorthemes/theme_@{theme}/mods.less";
+@import "@{roxid_path}/colorthemes/theme_@{theme}/fonts.less";
+
+@import "roxid3.less";
+@import "roxid3_variables.less";
+@import "bootstrap/variables.less";
+@import "colorthemes/theme_@{theme}/roxid3_variables.less";
+@import "colorthemes/theme_@{theme}/mods.less";
+
+@fonts: @fonts_bootswatch;
+@import "@{roxid_path}/colorthemes/fonts.less";

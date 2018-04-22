@@ -1,0 +1,14 @@
+tpl: 'application/views/roxid3/tpl'
+tmp: 'out/roxid3/build/.tmp'
+bower: 'out/roxid3/bower_components'
+src:
+  js: 'out/roxid3/src/js'
+  css: 'out/roxid3/src/css'
+  fonts: 'out/roxid3/src/fonts'
+  favicons: 'out/roxid3/src/favicons'
+dest:
+  js: 'out/roxid3/build/js'
+  css: 'out/roxid3/build/css'
+  fonts: 'out/roxid3/build/fonts/'
+  assets: 'out/roxid3/build/assets'
+  favicons: 'out/roxid3/build/favicons'
