@@ -15,7 +15,7 @@ $aTheme = array(
     'title'        => '<span style=\'letter-spacing:0.07em\'><strong style=\'color: #84AA4C;\'>R</strong>OXID</span> Three',
     'description'  => 'a responsive OXID template',
     'thumbnail'    => 'theme.png',
-    'version'      => '3.4.4',
+    'version'      => '3.4.5',
     'author'       => 'Marten Seemann',
     'parentTheme'  => 'roxid',
     'parentVersions' => $roxidVersions
